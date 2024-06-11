@@ -1102,3 +1102,12 @@ body {
   .footer .logo img { width: 205px; }
 
 }
+/* CSS code to remove blue background from the image */
+.logo {
+  background-color: transparent; /* Removes any background color */
+}
+
+/* General approach to remove background color from all images */
+img {
+  background-color: transparent; /* Removes any background color */
+}
